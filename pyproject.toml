@@ -12,6 +12,10 @@ yfinance = "^0.2.61"
 pandas-datareader = "^0.10.0"
 plotly = "^6.1.2"
 matplotlib = "^3.10.3"
+eurostat = "^1.1.1"
+ta-lib = "^0.6.4"
+gdown = "^5.2.0"
+pyarrow = "^20.0.0"
 
 
 [build-system]
